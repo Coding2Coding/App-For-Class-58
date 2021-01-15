@@ -1,0 +1,10 @@
+body {
+    background-color: linear-gradient (#cfffff 0%, #feb0e0 100%);
+    text-align: center;
+}
+.link {
+    list-style: none;
+    float: left;
+    margin-left: 7px;
+    padding-left: 7px;
+}
